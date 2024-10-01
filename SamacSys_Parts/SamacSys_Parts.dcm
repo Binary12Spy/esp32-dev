@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP HTSW-104-08-G-S-RA
+D SAMTEC - HTSW-104-08-G-S-RA - HEADER, 2.54MM, THT, R/A, 4WAY
+K
+F https://componentsearchengine.com/Datasheets/2/HTSW-104-08-G-S-RA.pdf
+$ENDCMP
+#
+$CMP ESP32-S3-WROOM-1U-N8R8
+D Multiprotocol Modules SMD Module, ESP32-S3R8, 8 MB Octal PSRAM Die, 8 MB Quad SPI Flash, IPEX Antenna Connector
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+$ENDCMP
+#
+$CMP CP2102N-A02-GQFN28
+D SILICON LABS - CP2102N-A02-GQFN28 - USB TO UART BRIDGE, -40 TO 85DEG C
+K
+F https://componentsearchengine.com/Datasheets/2/CP2102N-A02-GQFN28.pdf
+$ENDCMP
+#
+$CMP KSC243J_SP_DELTA_LFG
+D SEALED TACT SWITCH FOR SMT -40C to 85C 10mA @ 32VDC SPST-NO
+K
+F https://www.ckswitches.com/media/1968/ksc2.pdf
+$ENDCMP
+#
+#End Doc Library
