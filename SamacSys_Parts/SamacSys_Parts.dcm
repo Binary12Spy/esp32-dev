@@ -30,4 +30,34 @@ K
 F https://www.ckswitches.com/media/1968/ksc2.pdf
 $ENDCMP
 #
+$CMP LM1117MPX-3.3_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+K
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP MAL214097803E3
+D Aluminum Electrolytic Capacitors - SMD 22uF 63volts 20%
+K
+F https://www.vishay.com/docs/28396/140crh.pdf
+$ENDCMP
+#
+$CMP 505551-1020
+D Board to Board & Mezzanine Connectors SlimStack .4mm Conn Plug 10Ckt
+K
+F https://www.molex.com/pdm_docs/sd/5055511020_sd.pdf
+$ENDCMP
+#
+$CMP 505550-1020
+D Board to Board & Mezzanine Connectors SlimStack .4mm Conn Plug 10Ckt
+K
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/5055501020_PCB_RECEPTACLES.pdf
+$ENDCMP
+#
+$CMP APTD3216SECK
+D LED ORANGE CLEAR 2SMD
+K
+F https://componentsearchengine.com/Datasheets/1/APTD3216SECK.pdf
+$ENDCMP
+#
 #End Doc Library
